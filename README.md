@@ -1,3 +1,2 @@
 # skibidi
-YOLO auto-merge
-skibidi auto-merge
+Let's start fresh
